@@ -1,4 +1,4 @@
-**IN this case packages in main/resource/static and template are gone, so make it inside** \
+**IN this case packages in main/resource/static and template are gone, so make them inside** \
 **ALSO change the application.properties for config this project suchas DB** \
 \
 "# CRUD-using-Jdbc-in-Spring-boot" \
