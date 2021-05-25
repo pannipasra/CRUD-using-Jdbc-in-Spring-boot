@@ -1,3 +1,6 @@
+**IN this case packages in main/resource/static and template are gone, so make it inside** \
+**ALSO change the application.properties for config this project suchas DB** \
+\
 "# CRUD-using-Jdbc-in-Spring-boot" \
 // NOTE COMMAND_LINE // \
 echo "# CRUD-using-Jdbc-in-Spring-boot" >> README.md \
